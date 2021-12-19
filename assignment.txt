@@ -1,1 +1,26 @@
-assignment.txt
+Practise below unix commands on the eC2 instance. Do your own research from google wherever possible
+1. how to remove file ( rm filename)
+2. how to remove directory  (rm -r)
+3. How to know processes running in a unix system ( ps -ef )
+4. how to know if a specific port is running or not ( lsof -i:portnumber)
+5. how to find available memory in a unix box ( free -g)
+6. available disk space ( df -h)
+7. how to know if other server is up and running ( ping)
+8. what are cron jobs
+9. how to list open ports
+10. what is top command
+11. how to securely copy files to an unix box ( scp source username@hostname:destination)
+12. how to create a directory ( mkdir)
+13. what is a touch command
+14. what is a tail command and head commands
+15. how to list contents of a file  (cat)
+16. difference between copy and move command of a files
+17. how to create a soft link and what is its purpose?
+18. how to create a hard linka nd what is its purpose
+19. how to kill a process in unix server forcibly ( kill)
+20.change file permissions  (chmod)
+21. how to run a process in background on unix server
+22. how to stop a running process and send it to background
+23. what is grep command
+24. what is find command and know its options
+25. how to find how long a server has been up and running ( uptime )
