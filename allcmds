@@ -1,0 +1,56 @@
+!i 
+How to create a directory in Linux: Ex: mkdir filename (mkdir allcmds)
+
+How to remove a directory in linux: rm -r
+
+how to see how many processors are running in linux : (ps -ef)
+
+to see list of open port : lsof -i:portnumber)
+
+how to see free space in linux: free -g
+
+avaiable disk: df -h
+
+how to reach another server: ping serveripaddress
+
+What is corn job: Corn job is to automate the tasks in linux system which helps you to run your manual tasks in automate depnds on hr/daily/monthly/yearly 
+
+what is tail commnand: Tail cmd will print last 10 lines of the file which are specified if i want to see any specified lines i can use cmd with "tail -n 3 file.txt
+
+What is head command: head cmd will print fist 10 line of the file which are specified on the cmd
+
+How is to see list of file print in the dir: ls -l
+
+How to see the content of the file: cat and file name ec: "cat allcmds"
+
+diff between: cp and mv
+
+cp will just copy the file from the existing location to the new path and that will be available on both places.
+
+mv: mv will completed moved from the old to new path
+
+What is soft link:
+
+soft link is also called s symbolic link and it is a type of file in linux that points to an another file or a folder from your local machine.Basically links btw the file.
+
+Ex: ln -s file1 link1
+
+To verify soft links
+
+EX: ls -l file1 link1
+
+Hard link: Hard links is a file that points underlying inode to an another file. 
+
+Ex: ln sfile1file link1file
+
+How to kill a process in unix server : kill ex; kill process name or kill process id
+
+how to see list of running process: top
+
+how to run the process in the backgroun unix: "count &"
+
+:wq!
+
+
+
+
